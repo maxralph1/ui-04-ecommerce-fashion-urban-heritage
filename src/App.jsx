@@ -148,7 +148,7 @@ function App() {
           <a href="" className='px-2.5 py-1.5 border border-custom-black hover:bg-custom-gray hover:opacity-50 focus:bg-custom-gray focus:opacity:50 active:bg-custom-gray active:opacity-50 transition-all duration-700 ease-in-out rounded-3xl'>New Silhouettes</a>
         </div>
         <section className='flex-1 w-full relative mt-7'>
-          <div className='absolute top-5.5 left-5.5 me-5.5 flex flex-col items-start gap-4 bg-custom-black text-custom-white p-4 max-w-xl rounded-3xl'>
+          <div className='absolute top-5.5 left-5.5 me-5.5 flex flex-col items-start gap-4 bg-custom-black text-custom-white p-4 max-w-lg rounded-3xl'>
             <p>At Urban Heritage, we design with intention — blending classic European tailoring with bold architectural lines. Each piece tells a story of refinement, versatility, and individuality, crafted for those who move effortlessly between tradition and innovation.</p>
             <a href="" className='flex items-end gap-2 border-b border-b-custom-white'>
               <span>Explore the Collection</span>
