@@ -13,6 +13,25 @@
   font-optical-sizing: auto;
 }
 
+::-webkit-scrollbar {
+  width: 5px;
+  height: 2.5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #a8a8a8;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #909091;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #796f67;
+}
+
 .typewriter {
   margin-inline: auto;
   overflow: hidden;
